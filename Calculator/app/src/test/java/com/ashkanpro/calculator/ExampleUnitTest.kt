@@ -1,4 +1,4 @@
-package com.ashkan.calculator
+package com.ashkanpro.calculator
 
 import org.junit.Test
 
